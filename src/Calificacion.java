@@ -50,7 +50,7 @@ public class Calificacion {
 
         }
         System.out.println("Promedio: " + promedio);
-        System.out.print(("Calificacion: " + calificacion_final(promedio)));
+        System.out.print("Calificacion: " + calificacion);
 
     }
 
